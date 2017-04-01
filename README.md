@@ -1,3 +1,3 @@
 # Visualisador
 
-Um programa para visualizar imagens. Foi desenvolvido em java.
+Um programa para visualizar imagens.
